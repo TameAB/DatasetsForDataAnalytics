@@ -1,0 +1,101 @@
+,name,breed,color,height_cm,weight_kg,Date_of_Birth
+0,Cocas,Beagle,Tan,96.8,61.5,2024-03-21
+1,Ferit,Poodle,Brown,67.1,27.7,2015-07-31
+2,Vivet,Beagle,White,73.3,70.7,2023-07-25
+3,Buch,Beagle,Brown,88.8,77.6,2022-06-22
+4,Darek,Labrador,White,93.4,12.3,2016-11-29
+5,Ferit,St. Bernard,White,106.2,9.8,2018-03-18
+6,Anbes,St. Bernard,White,11.9,52.0,2017-08-31
+7,Druk,Beagle,Gray,56.0,68.7,2017-08-29
+8,Sheman,St. Bernard,Black,87.7,73.5,2024-07-08
+9,Friens,Boxer,White,25.1,26.5,2019-05-12
+10,Bark,Labrador,Black,11.3,0.6,2016-02-25
+11,Bark,Labrador,Gray,57.4,20.0,2023-05-01
+12,Anbes,Beagle,Gray,73.1,10.4,2022-05-14
+13,Tekula,St. Bernard,White,17.0,60.6,2020-06-10
+14,Sark,St. Bernard,Black,104.0,8.5,2023-02-07
+15,Marka,Poodle,Gray,63.5,72.3,2022-03-06
+16,Sheman,Beagle,Brown,53.5,5.0,2020-01-22
+17,Kiki,Chihuahua,Black,61.9,14.2,2014-11-13
+18,Cocas,Beagle,Brown,39.2,25.4,2018-02-25
+19,Lon,Chihuahua,Black,55.7,32.6,2024-01-03
+20,Turk,Beagle,Black,49.1,14.7,2018-10-03
+21,Anbes,Boxer,Gray,99.7,22.6,2018-01-03
+22,Anbes,Chihuahua,Brown,32.9,30.6,2015-06-03
+23,Darek,Labrador,Tan,32.0,0.4,2019-05-02
+24,Jack,Chihuahua,Tan,113.9,74.9,2022-09-28
+25,Vivet,St. Bernard,White,95.8,4.6,2016-12-12
+26,Druk,St. Bernard,Gray,118.6,30.0,2021-09-21
+27,Marka,St. Bernard,Gray,54.2,11.8,2019-05-17
+28,Darek,Chihuahua,Brown,80.3,52.5,2019-02-19
+29,Cocas,Poodle,Black,69.4,11.1,2022-03-18
+30,Darek,Beagle,Brown,47.0,42.1,2023-04-02
+31,Anbes,Beagle,Black,51.3,65.2,2017-07-23
+32,Lali,Poodle,Tan,42.7,63.8,2017-02-14
+33,Anbes,Labrador,Gray,85.0,16.0,2018-03-10
+34,Bark,Boxer,Black,67.7,15.9,2018-10-21
+35,Marka,Labrador,Black,15.9,58.7,2021-03-04
+36,Karky,Boxer,Black,97.5,56.7,2013-03-28
+37,Ferit,Beagle,Gray,88.4,33.3,2013-10-10
+38,Sark,Beagle,Gray,73.3,64.0,2015-09-22
+39,Vivet,St. Bernard,Brown,33.5,69.4,2016-08-12
+40,Vivet,Chihuahua,Black,37.2,9.6,2020-01-02
+41,Tekula,Labrador,Brown,97.4,33.4,2021-10-05
+42,Karkos,Beagle,Tan,116.6,26.7,2017-12-26
+43,Vivet,Beagle,White,88.6,44.0,2019-02-20
+44,Druk,Chihuahua,Brown,66.8,42.8,2019-03-14
+45,Kitty,Beagle,Brown,59.0,45.3,2018-06-25
+46,Karky,Beagle,Brown,13.2,69.2,2023-07-10
+47,Marka,Boxer,Brown,55.8,42.3,2020-02-03
+48,Sark,Boxer,Tan,15.4,32.4,2018-07-09
+49,Lon,Beagle,White,90.9,6.9,2022-11-19
+50,Jack,Poodle,Black,97.9,49.5,2023-03-28
+51,Garkos,Beagle,Gray,50.5,38.5,2022-05-17
+52,Turk,Beagle,Black,82.7,9.4,2020-05-13
+53,Druk,Poodle,Black,50.3,17.5,2017-02-25
+54,Tekula,Chihuahua,Tan,60.9,62.7,2013-12-14
+55,Kiki,Labrador,Tan,118.6,22.0,2019-01-20
+56,Lali,Poodle,Gray,80.1,26.0,2022-01-31
+57,Turk,St. Bernard,White,115.1,43.7,2017-04-14
+58,Ferit,Beagle,Gray,39.7,15.3,2023-11-05
+59,Sark,Chihuahua,Gray,94.3,46.4,2016-02-21
+60,Sheman,Labrador,Black,91.4,58.8,2015-04-30
+61,Darek,Beagle,Gray,61.0,22.1,2015-03-21
+62,Karkos,Chihuahua,Black,106.6,48.6,2017-05-10
+63,Karkos,Chihuahua,White,36.2,14.1,2024-06-04
+64,Lon,Chihuahua,White,34.5,13.3,2020-06-10
+65,Bark,Beagle,Black,23.6,42.5,2024-01-20
+66,Buch,Chihuahua,Black,111.1,52.7,2016-06-17
+67,Karkos,Poodle,Gray,119.8,14.0,2022-09-14
+68,Vivet,Poodle,Tan,70.7,16.5,2016-10-02
+69,Garkos,St. Bernard,White,49.3,41.0,2017-10-04
+70,Turk,Chihuahua,Black,31.6,43.1,2021-08-17
+71,Kitty,Labrador,White,91.1,57.7,2015-03-08
+72,Bark,Chihuahua,Black,62.8,0.6,2021-05-16
+73,Kitty,Boxer,White,22.4,52.3,2018-04-22
+74,Druk,Boxer,White,73.0,20.9,2024-06-06
+75,Lon,Labrador,Tan,105.4,78.7,2019-08-08
+76,Friens,Beagle,White,118.5,19.8,2017-05-15
+77,Lon,Labrador,Brown,95.7,46.2,2021-05-28
+78,Lali,Chihuahua,Tan,68.1,15.9,2021-10-05
+79,Druk,St. Bernard,White,10.2,52.5,2021-03-17
+80,Ferit,St. Bernard,White,67.5,45.5,2016-07-02
+81,Karkos,Labrador,Gray,13.0,8.0,2020-11-29
+82,Jibo,Beagle,Brown,16.3,25.9,2020-11-03
+83,Garkos,Poodle,Gray,21.2,4.1,2022-12-19
+84,Marka,Beagle,Gray,39.5,7.2,2023-12-09
+85,Kiki,Beagle,Black,78.2,39.6,2015-05-01
+86,Lali,Beagle,Black,67.0,65.9,2014-11-19
+87,Jibo,Boxer,White,86.6,2.5,2014-02-28
+88,Tekula,Poodle,Gray,20.3,24.8,2017-06-08
+89,Marka,Chihuahua,Tan,104.9,2.5,2022-04-23
+90,Tekula,Labrador,Gray,69.5,53.3,2013-04-10
+91,Sark,Beagle,White,80.7,5.8,2022-06-19
+92,Buch,Beagle,Black,32.2,61.6,2016-04-25
+93,Kiki,Beagle,White,104.1,19.2,2016-10-22
+94,Jibo,Beagle,White,82.7,56.7,2014-05-07
+95,Tekula,St. Bernard,White,32.6,59.1,2016-02-28
+96,Sheman,Beagle,Tan,80.5,22.9,2015-02-09
+97,Bark,Chihuahua,Gray,35.5,15.6,2016-06-18
+98,Cocas,Boxer,White,85.9,18.6,2023-01-18
+99,Lali,Poodle,Black,100.7,45.3,2020-06-02
